@@ -26,7 +26,7 @@
 
 // ** MySQL 設定 - この情報はホスティング先から入手してください。 ** //
 /** WordPress のためのデータベース名 */
-define( 'DB_NAME', aws_infra' );
+define( 'DB_NAME', 'aws_infra' );
 
 /** MySQL データベースのユーザー名 */
 define( 'DB_USER', 'aws_infra' );
