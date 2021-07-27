@@ -1,0 +1,20 @@
+body {
+    font-size: 14px;
+    font-family: Arial, Verdana;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    padding-bottom: 14px;
+    margin: 0;
+    line-height: 1.8;
+}
+
+.container {
+    width: 600px;
+    margin: 0 auto;
+    overflow: hidden;
+}
