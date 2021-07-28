@@ -26,7 +26,7 @@
 
 // ** MySQL 設定 - この情報はホスティング先から入手してください。 ** //
 /** WordPress のためのデータベース名 */
-define( 'DB_NAME', 'aws-infra-web' );
+define( 'DB_NAME', 'aws_infra' );
 
 /** MySQL データベースのユーザー名 */
 define( 'DB_USER', 'aws_infra' );
@@ -35,7 +35,7 @@ define( 'DB_USER', 'aws_infra' );
 define( 'DB_PASSWORD', 'password' );
 
 /** MySQL のホスト名 */
-define( 'DB_HOST', 'hostname' );
+define( 'DB_HOST', 'aws-infra-web.cg7xxvnef5jc.ap-northeast-1.rds.amazonaws.com' );
 
 /** データベースのテーブルを作成する際のデータベースの文字セット */
 define( 'DB_CHARSET', 'utf8' );
