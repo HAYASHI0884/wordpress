@@ -35,7 +35,7 @@ define( 'DB_USER', 'aws_infra' );
 define( 'DB_PASSWORD', 'password' );
 
 /** MySQL のホスト名 */
-define( 'DB_HOST', 'awsnopractice.com' );
+define( 'DB_HOST', 'hostname' );
 
 /** データベースのテーブルを作成する際のデータベースの文字セット */
 define( 'DB_CHARSET', 'utf8' );
